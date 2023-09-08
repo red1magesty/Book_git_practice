@@ -4,3 +4,5 @@ new file from github
 life is great
 
 thanks great god.
+
+from gitHub to git edited then will be pushed to gitHub
