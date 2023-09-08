@@ -3,3 +3,5 @@ new file from git
 hi everyone?
 
 some changes here because didn't write comment and I commit then couldn't see my file 12!
+
+when pushed it show up only one file
