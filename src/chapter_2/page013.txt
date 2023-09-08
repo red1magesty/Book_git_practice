@@ -2,4 +2,5 @@ practice make in file and
 
 pushed it to gitHub
 edited before the push
-rename the file
+rename the files
+file renamed
